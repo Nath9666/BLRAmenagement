@@ -1,0 +1,47 @@
+# Fichiers de projet Unreal Engine
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+*.VC.VC.opendb
+*.loose
+*.VC.opendbsession
+
+# Fichiers de build Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+Build/
+Pack/
+DerivedDataCache/
+.vs/
+*.VC.db
+*.ilk
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.app
+*.ipa
+*.apk
+
+# Fichiers de configuration Unreal Engine
+*.user
+*.log
+*.log.*
+*.exe.config
+*.userprefs
+
+# Fichiers de cache Unreal Engine
+DerivedDataCache/
+
+# Autres fichiers et dossiers à ignorer
+.DS_Store
+Thumbs.db
