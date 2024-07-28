@@ -1,4 +1,4 @@
 - [X] remodeliser le salon
 - [X] remodeliser la cuisine
-- [ ] amenager les pieces
-- [ ] ajouter des meubles
+- [X] amenager les pieces
+- [X] ajouter des meubles
