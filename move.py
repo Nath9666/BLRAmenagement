@@ -28,3 +28,5 @@ if __name__ == '__main__':
             os.rename(pathTempFile, os.path.join(pathFinalTempFile, tempFile))
         else:
             print("The directory already exists", pathFinalTempFile)
+
+#TODO: Add a progrramm to convert fbx file to fbx file with blender and do the tumnail to the file
