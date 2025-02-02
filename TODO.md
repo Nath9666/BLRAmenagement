@@ -10,10 +10,11 @@
 
 avoir les outils potentiels
 
-- catalogue
-- chage material
-- exporter les bricks
-- delink la bricks
+- catalogue -> livre
+- chage material -> un seau
+- dupliquer -> poge copier
+- exporter les bricks -> camion
+- delink la bricks -> separateur
 
 # Bras gauche
 
