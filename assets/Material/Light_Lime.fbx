@@ -10,9 +10,9 @@ FBXHeaderExtension:  {
 		Month: 2
 		Day: 5
 		Hour: 17
-		Minute: 44
-		Second: 14
-		Millisecond: 139
+		Minute: 47
+		Second: 26
+		Millisecond: 425
 	}
 	Creator: "FBX SDK/FBX Plugins version 2020.3.4"
 	OtherFlags:  {
@@ -76,7 +76,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 2972522604160, "Scene", "Scene" {
+	Document: 2966510017904, "Scene", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", ""
@@ -276,7 +276,7 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	Geometry: 2966509523888, "Geometry::Scene", "Mesh" {
+	Geometry: 2966509531056, "Geometry::Scene", "Mesh" {
 		Vertices: *24 {
 			a: -50,-50,50,50,-50,50,-50,50,50,50,50,50,-50,50,-50,50,50,-50,-50,-50,-50,50,-50,-50
 		} 
@@ -385,7 +385,7 @@ Objects:  {
 			}
 		}
 	}
-	Model: 2975718496048, "Model::Dark_Grey", "Mesh" {
+	Model: 2975540680480, "Model::Light_Lime", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -397,24 +397,24 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Material: 2975536209920, "Material::Dark_Grey", "" {
+	Material: 2966494544368, "Material::Light_Lime", "" {
 		Version: 102
 		ShadingModel: "phong"
 		MultiLayer: 0
 		Properties70:  {
 			P: "AmbientColor", "Color", "", "A",0,0,0
-			P: "DiffuseColor", "Color", "", "A",0.427450984716415,0.431372553110123,0.360784322023392
+			P: "DiffuseColor", "Color", "", "A",0.850980401039124,0.894117653369904,0.65490198135376
 			P: "SpecularColor", "Color", "", "A",0.219607844948769,0.219607844948769,0.219607844948769
 			P: "Emissive", "Vector3D", "Vector", "",0,0,0
 			P: "Ambient", "Vector3D", "Vector", "",0,0,0
-			P: "Diffuse", "Vector3D", "Vector", "",0.427450984716415,0.431372553110123,0.360784322023392
+			P: "Diffuse", "Vector3D", "Vector", "",0.850980401039124,0.894117653369904,0.65490198135376
 			P: "Specular", "Vector3D", "Vector", "",0.219607844948769,0.219607844948769,0.219607844948769
 			P: "Shininess", "double", "Number", "",20
 			P: "Opacity", "double", "Number", "",1
 			P: "Reflectivity", "double", "Number", "",0
 		}
 	}
-	Video: 2975536217120, "Video::NormalMap_Texture", "Clip" {
+	Video: 2966494542928, "Video::NormalMap_Texture", "Clip" {
 		Type: "Clip"
 		Properties70:  {
 			P: "Path", "KString", "XRefUrl", "", "C:\Users\Nathan MOREL\Documents\LDraw_Importer_Unity\Assets\LDraw-Importer\Default Materials\scuffed-plastic-normal.png"
@@ -424,7 +424,7 @@ Objects:  {
 		Filename: "C:\Users\Nathan MOREL\Documents\LDraw_Importer_Unity\Assets\LDraw-Importer\Default Materials\scuffed-plastic-normal.png"
 		RelativeFilename: "..\..\..\LDraw_Importer_Unity\Assets\LDraw-Importer\Default Materials\scuffed-plastic-normal.png"
 	}
-	Texture: 2975536214720, "Texture::NormalMap_Texture", "" {
+	Texture: 2966494544848, "Texture::NormalMap_Texture", "" {
 		Type: "TextureVideoClip"
 		Version: 202
 		TextureName: "Texture::NormalMap_Texture"
@@ -443,23 +443,23 @@ Objects:  {
 
 Connections:  {
 	
-	;Model::Dark_Grey, Model::RootNode
-	C: "OO",2975718496048,0
+	;Model::Light_Lime, Model::RootNode
+	C: "OO",2975540680480,0
 	
-	;Material::Dark_Grey, Model::Dark_Grey
-	C: "OO",2975536209920,2975718496048
+	;Material::Light_Lime, Model::Light_Lime
+	C: "OO",2966494544368,2975540680480
 	
-	;Geometry::Scene, Model::Dark_Grey
-	C: "OO",2966509523888,2975718496048
+	;Geometry::Scene, Model::Light_Lime
+	C: "OO",2966509531056,2975540680480
 	
-	;Texture::NormalMap_Texture, Material::Dark_Grey
-	C: "OO",2975536214720,2975536209920
+	;Texture::NormalMap_Texture, Material::Light_Lime
+	C: "OO",2966494544848,2966494544368
 	
-	;Texture::NormalMap_Texture, Material::Dark_Grey
-	C: "OP",2975536214720,2975536209920, "NormalMap"
+	;Texture::NormalMap_Texture, Material::Light_Lime
+	C: "OP",2966494544848,2966494544368, "NormalMap"
 	
 	;Video::NormalMap_Texture, Texture::NormalMap_Texture
-	C: "OO",2975536217120,2975536214720
+	C: "OO",2966494542928,2966494544848
 }
 ;Takes section
 ;----------------------------------------------------
