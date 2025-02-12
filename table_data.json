@@ -1,0 +1,2510 @@
+[
+  {
+    "1": {
+      "name": "White",
+      "bgColor": "FFFFFF",
+      "type": "Solid",
+      "Parts": "16133",
+      "In Sets": "11892",
+      "Wanted": "23940",
+      "For Sale": "16525",
+      "Color Timeline": "1949\u00a0-\u00a02025"
+    }
+  },
+  {
+    "2": {
+      "name": "Tan",
+      "bgColor": "EED9A4",
+      "type": "Solid",
+      "Parts": "2883",
+      "In Sets": "5661",
+      "Wanted": "6197",
+      "For Sale": "3152",
+      "Color Timeline": "1957\u00a0-\u00a02025"
+    }
+  },
+  {
+    "3": {
+      "name": "Yellow",
+      "bgColor": "FFE001",
+      "type": "Solid",
+      "Parts": "7108",
+      "In Sets": "11213",
+      "Wanted": "11410",
+      "For Sale": "8089",
+      "Color Timeline": "1949\u00a0-\u00a02025"
+    }
+  },
+  {
+    "4": {
+      "name": "Orange",
+      "bgColor": "FF7E14",
+      "type": "Solid",
+      "Parts": "2342",
+      "In Sets": "4094",
+      "Wanted": "4676",
+      "For Sale": "2558",
+      "Color Timeline": "1998\u00a0-\u00a02025"
+    }
+  },
+  {
+    "5": {
+      "name": "Red",
+      "bgColor": "B30006",
+      "type": "Solid",
+      "Parts": "8544",
+      "In Sets": "11513",
+      "Wanted": "13891",
+      "For Sale": "9048",
+      "Color Timeline": "1949\u00a0-\u00a02025"
+    }
+  },
+  {
+    "6": {
+      "name": "Green",
+      "bgColor": "00923D",
+      "type": "Solid",
+      "Parts": "2212",
+      "In Sets": "5861",
+      "Wanted": "5263",
+      "For Sale": "2533",
+      "Color Timeline": "1949\u00a0-\u00a02025"
+    }
+  },
+  {
+    "7": {
+      "name": "Blue",
+      "bgColor": "0057A6",
+      "type": "Solid",
+      "Parts": "4322",
+      "In Sets": "8933",
+      "Wanted": "8154",
+      "For Sale": "4842",
+      "Color Timeline": "1950\u00a0-\u00a02025"
+    }
+  },
+  {
+    "8": {
+      "name": "Brown",
+      "bgColor": "6B3F22",
+      "type": "Solid",
+      "Parts": "578",
+      "In Sets": "1101",
+      "Wanted": "3864",
+      "For Sale": "963",
+      "Color Timeline": "1974\u00a0-\u00a02006"
+    }
+  },
+  {
+    "9": {
+      "name": "Light Gray",
+      "bgColor": "9C9C9C",
+      "type": "Solid",
+      "Parts": "1869",
+      "In Sets": "3209",
+      "Wanted": "6195",
+      "For Sale": "2534",
+      "Color Timeline": "1954\u00a0-\u00a02008"
+    }
+  },
+  {
+    "10": {
+      "name": "Dark Gray",
+      "bgColor": "6B5A5A",
+      "type": "Solid",
+      "Parts": "1048",
+      "In Sets": "1707",
+      "Wanted": "4540",
+      "For Sale": "1519",
+      "Color Timeline": "1961\u00a0-\u00a02006"
+    }
+  },
+  {
+    "11": {
+      "name": "Black",
+      "bgColor": "212121",
+      "type": "Solid",
+      "Parts": "13255",
+      "In Sets": "13712",
+      "Wanted": "19137",
+      "For Sale": "13681",
+      "Color Timeline": "1957\u00a0-\u00a02025"
+    }
+  },
+  {
+    "12": {
+      "name": "Trans-Clear",
+      "bgColor": "EEEEEE",
+      "type": "Transparent",
+      "Parts": "1147",
+      "In Sets": "5744",
+      "Wanted": "3383",
+      "For Sale": "1385",
+      "Color Timeline": "1950\u00a0-\u00a02025"
+    }
+  },
+  {
+    "13": {
+      "name": "Trans-Brown",
+      "bgColor": "939484",
+      "type": "Transparent",
+      "Parts": "491",
+      "In Sets": "1854",
+      "Wanted": "1347",
+      "For Sale": "554",
+      "Color Timeline": "1999\u00a0-\u00a02024"
+    }
+  },
+  {
+    "14": {
+      "name": "Trans-Dark Blue",
+      "bgColor": "00296B",
+      "type": "Transparent",
+      "Parts": "277",
+      "In Sets": "1845",
+      "Wanted": "1244",
+      "For Sale": "343",
+      "Color Timeline": "1978\u00a0-\u00a02025"
+    }
+  },
+  {
+    "15": {
+      "name": "Trans-Light Blue",
+      "bgColor": "68BCC5",
+      "type": "Transparent",
+      "Parts": "914",
+      "In Sets": "3381",
+      "Wanted": "2120",
+      "For Sale": "1053",
+      "Color Timeline": "1985\u00a0-\u00a02025"
+    }
+  },
+  {
+    "16": {
+      "name": "Trans-Neon Green",
+      "bgColor": "C0F500",
+      "type": "Transparent",
+      "Parts": "229",
+      "In Sets": "1144",
+      "Wanted": "911",
+      "For Sale": "292",
+      "Color Timeline": "1990\u00a0-\u00a02024"
+    }
+  },
+  {
+    "17": {
+      "name": "Trans-Red",
+      "bgColor": "9C0010",
+      "type": "Transparent",
+      "Parts": "254",
+      "In Sets": "4084",
+      "Wanted": "1317",
+      "For Sale": "319",
+      "Color Timeline": "1969\u00a0-\u00a02025"
+    }
+  },
+  {
+    "18": {
+      "name": "Trans-Neon Orange",
+      "bgColor": "FF4231",
+      "type": "Transparent",
+      "Parts": "246",
+      "In Sets": "1040",
+      "Wanted": "1074",
+      "For Sale": "319",
+      "Color Timeline": "1993\u00a0-\u00a02023"
+    }
+  },
+  {
+    "19": {
+      "name": "Trans-Yellow",
+      "bgColor": "EBF72D",
+      "type": "Transparent",
+      "Parts": "244",
+      "In Sets": "2807",
+      "Wanted": "1057",
+      "For Sale": "305",
+      "Color Timeline": "1969\u00a0-\u00a02025"
+    }
+  },
+  {
+    "20": {
+      "name": "Trans-Green",
+      "bgColor": "217625",
+      "type": "Transparent",
+      "Parts": "148",
+      "In Sets": "1599",
+      "Wanted": "766",
+      "For Sale": "192",
+      "Color Timeline": "1969\u00a0-\u00a02025"
+    }
+  },
+  {
+    "21": {
+      "name": "Chrome Gold",
+      "bgColor": "f1f2e1",
+      "type": "Pearl Colors",
+      "Parts": "51",
+      "In Sets": "297",
+      "Wanted": "1796",
+      "For Sale": "55",
+      "Color Timeline": "1989\u00a0-\u00a02025"
+    }
+  },
+  {
+    "22": {
+      "name": "Chrome Silver",
+      "bgColor": "DCDCDC",
+      "type": "Pearl Colors",
+      "Parts": "104",
+      "In Sets": "526",
+      "Wanted": "2282",
+      "For Sale": "177",
+      "Color Timeline": "1966\u00a0-\u00a02024"
+    }
+  },
+  {
+    "23": {
+      "name": "Pink",
+      "bgColor": "F5CDD6",
+      "type": "Solid",
+      "Parts": "121",
+      "In Sets": "79",
+      "Wanted": "1171",
+      "For Sale": "234",
+      "Color Timeline": "1991\u00a0-\u00a02005"
+    }
+  },
+  {
+    "24": {
+      "name": "Purple",
+      "bgColor": "7A238D",
+      "type": "Solid",
+      "Parts": "133",
+      "In Sets": "125",
+      "Wanted": "1641",
+      "For Sale": "269",
+      "Color Timeline": "1997\u00a0-\u00a02006"
+    }
+  },
+  {
+    "25": {
+      "name": "Salmon",
+      "bgColor": "FF7D5D",
+      "type": "Solid",
+      "Parts": "83",
+      "In Sets": "27",
+      "Wanted": "562",
+      "For Sale": "90",
+      "Color Timeline": "1997\u00a0-\u00a01999"
+    }
+  },
+  {
+    "26": {
+      "name": "Light Salmon",
+      "bgColor": "FCC7B7",
+      "type": "Solid",
+      "Parts": "51",
+      "In Sets": "23",
+      "Wanted": "492",
+      "For Sale": "57",
+      "Color Timeline": "1997\u00a0-\u00a02002"
+    }
+  },
+  {
+    "27": {
+      "name": "Rust",
+      "bgColor": "B24817",
+      "type": "Solid",
+      "Parts": "5",
+      "In Sets": "16",
+      "Wanted": "1857",
+      "For Sale": "31",
+      "Color Timeline": "1979\u00a0-\u00a02005"
+    }
+  },
+  {
+    "28": {
+      "name": "Nougat",
+      "bgColor": "FFAF7D",
+      "type": "Solid",
+      "Parts": "385",
+      "In Sets": "435",
+      "Wanted": "1658",
+      "For Sale": "457",
+      "Color Timeline": "1979\u00a0-\u00a02025"
+    }
+  },
+  {
+    "29": {
+      "name": "Earth Orange",
+      "bgColor": "E6881D",
+      "type": "Solid",
+      "Parts": "44",
+      "In Sets": "85",
+      "Wanted": "1172",
+      "For Sale": "53",
+      "Color Timeline": "1982\u00a0-\u00a02005"
+    }
+  },
+  {
+    "31": {
+      "name": "Medium Orange",
+      "bgColor": "FFA531",
+      "type": "Solid",
+      "Parts": "130",
+      "In Sets": "114",
+      "Wanted": "1139",
+      "For Sale": "177",
+      "Color Timeline": "1950\u00a0-\u00a02007"
+    }
+  },
+  {
+    "32": {
+      "name": "Light Orange",
+      "bgColor": "FFBC36",
+      "type": "Solid",
+      "Parts": "18",
+      "In Sets": "18",
+      "Wanted": "599",
+      "For Sale": "74",
+      "Color Timeline": "1998\u00a0-\u00a02004"
+    }
+  },
+  {
+    "33": {
+      "name": "Light Yellow",
+      "bgColor": "FEE89F",
+      "type": "Solid",
+      "Parts": "104",
+      "In Sets": "71",
+      "Wanted": "1335",
+      "For Sale": "172",
+      "Color Timeline": "1994\u00a0-\u00a02005"
+    }
+  },
+  {
+    "34": {
+      "name": "Lime",
+      "bgColor": "C4E000",
+      "type": "Solid",
+      "Parts": "1934",
+      "In Sets": "3157",
+      "Wanted": "3263",
+      "For Sale": "2095",
+      "Color Timeline": "1998\u00a0-\u00a02025"
+    }
+  },
+  {
+    "35": {
+      "name": "Light Lime",
+      "bgColor": "ECEEBD",
+      "type": "Solid",
+      "Parts": "21",
+      "In Sets": "17",
+      "Wanted": "579",
+      "For Sale": "50",
+      "Color Timeline": "1992\u00a0-\u00a02007"
+    }
+  },
+  {
+    "36": {
+      "name": "Bright Green",
+      "bgColor": "10CB31",
+      "type": "Solid",
+      "Parts": "842",
+      "In Sets": "2495",
+      "Wanted": "2896",
+      "For Sale": "940",
+      "Color Timeline": "1950\u00a0-\u00a02025"
+    }
+  },
+  {
+    "37": {
+      "name": "Medium Green",
+      "bgColor": "91DF8C",
+      "type": "Solid",
+      "Parts": "124",
+      "In Sets": "108",
+      "Wanted": "801",
+      "For Sale": "140",
+      "Color Timeline": "1950\u00a0-\u00a02004"
+    }
+  },
+  {
+    "38": {
+      "name": "Light Green",
+      "bgColor": "D7EED1",
+      "type": "Solid",
+      "Parts": "64",
+      "In Sets": "57",
+      "Wanted": "683",
+      "For Sale": "118",
+      "Color Timeline": "1992\u00a0-\u00a02005"
+    }
+  },
+  {
+    "39": {
+      "name": "Dark Turquoise",
+      "bgColor": "00A29F",
+      "type": "Solid",
+      "Parts": "837",
+      "In Sets": "1145",
+      "Wanted": "2092",
+      "For Sale": "899",
+      "Color Timeline": "1998\u00a0-\u00a02025"
+    }
+  },
+  {
+    "40": {
+      "name": "Light Turquoise",
+      "bgColor": "00C5BC",
+      "type": "Solid",
+      "Parts": "59",
+      "In Sets": "40",
+      "Wanted": "868",
+      "For Sale": "90",
+      "Color Timeline": "1998\u00a0-\u00a02004"
+    }
+  },
+  {
+    "41": {
+      "name": "Aqua",
+      "bgColor": "BCE5DC",
+      "type": "Solid",
+      "Parts": "82",
+      "In Sets": "60",
+      "Wanted": "1545",
+      "For Sale": "138",
+      "Color Timeline": "1998\u00a0-\u00a02006"
+    }
+  },
+  {
+    "42": {
+      "name": "Medium Blue",
+      "bgColor": "82ADD8",
+      "type": "Solid",
+      "Parts": "916",
+      "In Sets": "1229",
+      "Wanted": "2371",
+      "For Sale": "1046",
+      "Color Timeline": "1949\u00a0-\u00a02025"
+    }
+  },
+  {
+    "43": {
+      "name": "Violet",
+      "bgColor": "3448A4",
+      "type": "Solid",
+      "Parts": "79",
+      "In Sets": "41",
+      "Wanted": "700",
+      "For Sale": "96",
+      "Color Timeline": "1992\u00a0-\u00a02004"
+    }
+  },
+  {
+    "44": {
+      "name": "Light Violet",
+      "bgColor": "C9CAE2",
+      "type": "Solid",
+      "Parts": "70",
+      "In Sets": "38",
+      "Wanted": "384",
+      "For Sale": "84",
+      "Color Timeline": "1994\u00a0-\u00a02002"
+    }
+  },
+  {
+    "46": {
+      "name": "Glow In Dark Opaque",
+      "bgColor": "d4d5c9",
+      "type": "Glitter Colors",
+      "Parts": "89",
+      "In Sets": "89",
+      "Wanted": "569",
+      "For Sale": "101",
+      "Color Timeline": "1990\u00a0-\u00a02011"
+    }
+  },
+  {
+    "47": {
+      "name": "Dark Pink",
+      "bgColor": "EF5BB3",
+      "type": "Solid",
+      "Parts": "864",
+      "In Sets": "1552",
+      "Wanted": "1857",
+      "For Sale": "939",
+      "Color Timeline": "1994\u00a0-\u00a02025"
+    }
+  },
+  {
+    "48": {
+      "name": "Sand Green",
+      "bgColor": "A2BFA3",
+      "type": "Solid",
+      "Parts": "769",
+      "In Sets": "975",
+      "Wanted": "2222",
+      "For Sale": "833",
+      "Color Timeline": "1957\u00a0-\u00a02025"
+    }
+  },
+  {
+    "49": {
+      "name": "Very Light Gray",
+      "bgColor": "E8E8E8",
+      "type": "Solid",
+      "Parts": "21",
+      "In Sets": "24",
+      "Wanted": "1656",
+      "For Sale": "67",
+      "Color Timeline": "1997\u00a0-\u00a02004"
+    }
+  },
+  {
+    "50": {
+      "name": "Trans-Dark Pink",
+      "bgColor": "CE1d9b",
+      "type": "Transparent",
+      "Parts": "260",
+      "In Sets": "873",
+      "Wanted": "756",
+      "For Sale": "292",
+      "Color Timeline": "1999\u00a0-\u00a02025"
+    }
+  },
+  {
+    "51": {
+      "name": "Trans-Purple",
+      "bgColor": "5525B7",
+      "type": "Transparent",
+      "Parts": "161",
+      "In Sets": "458",
+      "Wanted": "646",
+      "For Sale": "194",
+      "Color Timeline": "2000\u00a0-\u00a02025"
+    }
+  },
+  {
+    "52": {
+      "name": "Chrome Blue",
+      "bgColor": "5C66A4",
+      "type": "Pearl Colors",
+      "Parts": "5",
+      "In Sets": "14",
+      "Wanted": "392",
+      "For Sale": "10",
+      "Color Timeline": "1998\u00a0-\u00a02006"
+    }
+  },
+  {
+    "54": {
+      "name": "Sand Purple",
+      "bgColor": "B57DA5",
+      "type": "Solid",
+      "Parts": "20",
+      "In Sets": "5",
+      "Wanted": "527",
+      "For Sale": "24",
+      "Color Timeline": "2001\u00a0-\u00a02002"
+    }
+  },
+  {
+    "55": {
+      "name": "Sand Blue",
+      "bgColor": "8899AB",
+      "type": "Solid",
+      "Parts": "804",
+      "In Sets": "861",
+      "Wanted": "2320",
+      "For Sale": "850",
+      "Color Timeline": "2001\u00a0-\u00a02025"
+    }
+  },
+  {
+    "56": {
+      "name": "Light Pink",
+      "bgColor": "F2D3D1",
+      "type": "Solid",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "596",
+      "For Sale": "57",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "57": {
+      "name": "Chrome Antique Brass",
+      "bgColor": "645a4c",
+      "type": "Pearl Colors",
+      "Parts": "3",
+      "In Sets": "17",
+      "Wanted": "550",
+      "For Sale": "3",
+      "Color Timeline": "2001\u00a0-\u00a02005"
+    }
+  },
+  {
+    "58": {
+      "name": "Sand Red",
+      "bgColor": "C58D80",
+      "type": "Solid",
+      "Parts": "39",
+      "In Sets": "18",
+      "Wanted": "582",
+      "For Sale": "44",
+      "Color Timeline": "2001\u00a0-\u00a02004"
+    }
+  },
+  {
+    "59": {
+      "name": "Dark Red",
+      "bgColor": "6A0E15",
+      "type": "Solid",
+      "Parts": "1965",
+      "In Sets": "2192",
+      "Wanted": "4610",
+      "For Sale": "2051",
+      "Color Timeline": "1957\u00a0-\u00a02025"
+    }
+  },
+  {
+    "60": {
+      "name": "Milky White",
+      "bgColor": "d4d3dd",
+      "type": "Glitter Colors",
+      "Parts": "26",
+      "In Sets": "144",
+      "Wanted": "725",
+      "For Sale": "74",
+      "Color Timeline": "1963\u00a0-\u00a02008"
+    }
+  },
+  {
+    "61": {
+      "name": "Pearl Light Gold",
+      "bgColor": "E7AE5A",
+      "type": "Satin Colors",
+      "Parts": "13",
+      "In Sets": "7",
+      "Wanted": "595",
+      "For Sale": "65",
+      "Color Timeline": "2000\u00a0-\u00a02005"
+    }
+  },
+  {
+    "62": {
+      "name": "Light Blue",
+      "bgColor": "C8D9E1",
+      "type": "Solid",
+      "Parts": "19",
+      "In Sets": "18",
+      "Wanted": "961",
+      "For Sale": "72",
+      "Color Timeline": "1950\u00a0-\u00a02007"
+    }
+  },
+  {
+    "63": {
+      "name": "Dark Blue",
+      "bgColor": "243757",
+      "type": "Solid",
+      "Parts": "2617",
+      "In Sets": "2573",
+      "Wanted": "5173",
+      "For Sale": "2717",
+      "Color Timeline": "1961\u00a0-\u00a02025"
+    }
+  },
+  {
+    "64": {
+      "name": "Chrome Green",
+      "bgColor": "3CB371",
+      "type": "Pearl Colors",
+      "Parts": "1",
+      "In Sets": "2",
+      "Wanted": "353",
+      "For Sale": "5",
+      "Color Timeline": "1999\u00a0-\u00a01999"
+    }
+  },
+  {
+    "65": {
+      "name": "Metallic Gold",
+      "bgColor": "B8860B",
+      "type": "Milky Colors",
+      "Parts": "120",
+      "In Sets": "345",
+      "Wanted": "1447",
+      "For Sale": "216",
+      "Color Timeline": "1997\u00a0-\u00a02025"
+    }
+  },
+  {
+    "66": {
+      "name": "Pearl Light Gray",
+      "bgColor": "ACB7C0",
+      "type": "Satin Colors",
+      "Parts": "505",
+      "In Sets": "766",
+      "Wanted": "1699",
+      "For Sale": "651",
+      "Color Timeline": "2000\u00a0-\u00a02011"
+    }
+  },
+  {
+    "67": {
+      "name": "Metallic Silver",
+      "bgColor": "C0C0C0",
+      "type": "Milky Colors",
+      "Parts": "209",
+      "In Sets": "786",
+      "Wanted": "2456",
+      "For Sale": "278",
+      "Color Timeline": "1957\u00a0-\u00a02025"
+    }
+  },
+  {
+    "68": {
+      "name": "Dark Orange",
+      "bgColor": "B35408",
+      "type": "Solid",
+      "Parts": "928",
+      "In Sets": "2182",
+      "Wanted": "2714",
+      "For Sale": "1003",
+      "Color Timeline": "1994\u00a0-\u00a02025"
+    }
+  },
+  {
+    "69": {
+      "name": "Dark Tan",
+      "bgColor": "B89869",
+      "type": "Solid",
+      "Parts": "1325",
+      "In Sets": "2917",
+      "Wanted": "3616",
+      "For Sale": "1372",
+      "Color Timeline": "1961\u00a0-\u00a02025"
+    }
+  },
+  {
+    "70": {
+      "name": "Metallic Green",
+      "bgColor": "bdb573",
+      "type": "Milky Colors",
+      "Parts": "31",
+      "In Sets": "10",
+      "Wanted": "480",
+      "For Sale": "38",
+      "Color Timeline": "2001\u00a0-\u00a02005"
+    }
+  },
+  {
+    "71": {
+      "name": "Magenta",
+      "bgColor": "B72276",
+      "type": "Solid",
+      "Parts": "688",
+      "In Sets": "1270",
+      "Wanted": "1757",
+      "For Sale": "750",
+      "Color Timeline": "2000\u00a0-\u00a02025"
+    }
+  },
+  {
+    "72": {
+      "name": "Maersk Blue",
+      "bgColor": "7DC1D8",
+      "type": "Solid",
+      "Parts": "84",
+      "In Sets": "14",
+      "Wanted": "799",
+      "For Sale": "105",
+      "Color Timeline": "1974\u00a0-\u00a02011"
+    }
+  },
+  {
+    "73": {
+      "name": "Medium Violet",
+      "bgColor": "9391E4",
+      "type": "Solid",
+      "Parts": "17",
+      "In Sets": "23",
+      "Wanted": "483",
+      "For Sale": "25",
+      "Color Timeline": "1999\u00a0-\u00a02004"
+    }
+  },
+  {
+    "74": {
+      "name": "Trans-Medium Blue",
+      "bgColor": "76A3C8",
+      "type": "Transparent",
+      "Parts": "98",
+      "In Sets": "203",
+      "Wanted": "1114",
+      "For Sale": "157",
+      "Color Timeline": "2001\u00a0-\u00a02018"
+    }
+  },
+  {
+    "76": {
+      "name": "Medium Lime",
+      "bgColor": "DFE000",
+      "type": "Solid",
+      "Parts": "68",
+      "In Sets": "43",
+      "Wanted": "752",
+      "For Sale": "80",
+      "Color Timeline": "1998\u00a0-\u00a02005"
+    }
+  },
+  {
+    "77": {
+      "name": "Pearl Dark Gray",
+      "bgColor": "666660",
+      "type": "Satin Colors",
+      "Parts": "851",
+      "In Sets": "1383",
+      "Wanted": "2952",
+      "For Sale": "931",
+      "Color Timeline": "2000\u00a0-\u00a02025"
+    }
+  },
+  {
+    "78": {
+      "name": "Pearl Sand Blue",
+      "bgColor": "868FAA",
+      "type": "Satin Colors",
+      "Parts": "44",
+      "In Sets": "23",
+      "Wanted": "390",
+      "For Sale": "47",
+      "Color Timeline": "2002\u00a0-\u00a02005"
+    }
+  },
+  {
+    "80": {
+      "name": "Dark Green",
+      "bgColor": "2E5543",
+      "type": "Solid",
+      "Parts": "1056",
+      "In Sets": "1350",
+      "Wanted": "3516",
+      "For Sale": "1128",
+      "Color Timeline": "1961\u00a0-\u00a02025"
+    }
+  },
+  {
+    "81": {
+      "name": "Flat Dark Gold",
+      "bgColor": "AD7118",
+      "type": "Satin Colors",
+      "Parts": "50",
+      "In Sets": "48",
+      "Wanted": "897",
+      "For Sale": "159",
+      "Color Timeline": "2002\u00a0-\u00a02006"
+    }
+  },
+  {
+    "82": {
+      "name": "Chrome Pink",
+      "bgColor": "aa4d8e",
+      "type": "Pearl Colors",
+      "Parts": "1",
+      "In Sets": "10",
+      "Wanted": "306",
+      "For Sale": "7",
+      "Color Timeline": "2001\u00a0-\u00a02007"
+    }
+  },
+  {
+    "83": {
+      "name": "Pearl White",
+      "bgColor": "FFFFFF",
+      "type": "Satin Colors",
+      "Parts": "3",
+      "In Sets": "7",
+      "Wanted": "567",
+      "For Sale": "15",
+      "Color Timeline": "2003\u00a0-\u00a02006"
+    }
+  },
+  {
+    "84": {
+      "name": "Copper",
+      "bgColor": "AC6D52",
+      "type": "Satin Colors",
+      "Parts": "11",
+      "In Sets": "23",
+      "Wanted": "876",
+      "For Sale": "43",
+      "Color Timeline": "2004\u00a0-\u00a02008"
+    }
+  },
+  {
+    "85": {
+      "name": "Dark Bluish Gray",
+      "bgColor": "595D60",
+      "type": "Solid",
+      "Parts": "4390",
+      "In Sets": "7486",
+      "Wanted": "8755",
+      "For Sale": "4900",
+      "Color Timeline": "2003\u00a0-\u00a02025"
+    }
+  },
+  {
+    "86": {
+      "name": "Light Bluish Gray",
+      "bgColor": "AFB5C7",
+      "type": "Solid",
+      "Parts": "5082",
+      "In Sets": "8147",
+      "Wanted": "9477",
+      "For Sale": "5749",
+      "Color Timeline": "2003\u00a0-\u00a02025"
+    }
+  },
+  {
+    "87": {
+      "name": "Sky Blue",
+      "bgColor": "8AD4E1",
+      "type": "Solid",
+      "Parts": "37",
+      "In Sets": "33",
+      "Wanted": "969",
+      "For Sale": "47",
+      "Color Timeline": "2003\u00a0-\u00a02007"
+    }
+  },
+  {
+    "88": {
+      "name": "Reddish Brown",
+      "bgColor": "82422A",
+      "type": "Solid",
+      "Parts": "2488",
+      "In Sets": "5207",
+      "Wanted": "5015",
+      "For Sale": "2739",
+      "Color Timeline": "2003\u00a0-\u00a02025"
+    }
+  },
+  {
+    "89": {
+      "name": "Dark Purple",
+      "bgColor": "5F2683",
+      "type": "Solid",
+      "Parts": "1139",
+      "In Sets": "1512",
+      "Wanted": "2559",
+      "For Sale": "1247",
+      "Color Timeline": "2000\u00a0-\u00a02025"
+    }
+  },
+  {
+    "90": {
+      "name": "Light Nougat",
+      "bgColor": "FECCB0",
+      "type": "Solid",
+      "Parts": "2034",
+      "In Sets": "2011",
+      "Wanted": "3649",
+      "For Sale": "2024",
+      "Color Timeline": "2004\u00a0-\u00a02025"
+    }
+  },
+  {
+    "91": {
+      "name": "Light Brown",
+      "bgColor": "99663E",
+      "type": "Solid",
+      "Parts": "42",
+      "In Sets": "31",
+      "Wanted": "1973",
+      "For Sale": "93",
+      "Color Timeline": "2002\u00a0-\u00a02006"
+    }
+  },
+  {
+    "93": {
+      "name": "Light Purple",
+      "bgColor": "AF3195",
+      "type": "Solid",
+      "Parts": "27",
+      "In Sets": "20",
+      "Wanted": "698",
+      "For Sale": "52",
+      "Color Timeline": "2003\u00a0-\u00a02006"
+    }
+  },
+  {
+    "94": {
+      "name": "Medium Dark Pink",
+      "bgColor": "F785B1",
+      "type": "Solid",
+      "Parts": "14",
+      "In Sets": "6",
+      "Wanted": "561",
+      "For Sale": "47",
+      "Color Timeline": "1992\u00a0-\u00a01993"
+    }
+  },
+  {
+    "95": {
+      "name": "Flat Silver",
+      "bgColor": "8D949C",
+      "type": "Satin Colors",
+      "Parts": "872",
+      "In Sets": "3203",
+      "Wanted": "3241",
+      "For Sale": "1167",
+      "Color Timeline": "2008\u00a0-\u00a02025"
+    }
+  },
+  {
+    "96": {
+      "name": "Very Light Orange",
+      "bgColor": "FFDCA4",
+      "type": "Solid",
+      "Parts": "1",
+      "In Sets": "2",
+      "Wanted": "615",
+      "For Sale": "24",
+      "Color Timeline": "2000\u00a0-\u00a02000"
+    }
+  },
+  {
+    "97": {
+      "name": "Blue-Violet",
+      "bgColor": "506CEF",
+      "type": "Solid",
+      "Parts": "38",
+      "In Sets": "19",
+      "Wanted": "1031",
+      "For Sale": "60",
+      "Color Timeline": "2004\u00a0-\u00a02005"
+    }
+  },
+  {
+    "98": {
+      "name": "Trans-Orange",
+      "bgColor": "E96F01",
+      "type": "Transparent",
+      "Parts": "251",
+      "In Sets": "2429",
+      "Wanted": "891",
+      "For Sale": "324",
+      "Color Timeline": "2003\u00a0-\u00a02025"
+    }
+  },
+  {
+    "99": {
+      "name": "Very Light Bluish Gray",
+      "bgColor": "E4E8E8",
+      "type": "Solid",
+      "Parts": "53",
+      "In Sets": "49",
+      "Wanted": "1959",
+      "For Sale": "109",
+      "Color Timeline": "2004\u00a0-\u00a02013"
+    }
+  },
+  {
+    "100": {
+      "name": "Glitter Trans-Dark Pink",
+      "bgColor": "CE1d9b",
+      "type": "Speckle Colors",
+      "Parts": "12",
+      "In Sets": "40",
+      "Wanted": "177",
+      "For Sale": "17",
+      "Color Timeline": "1999\u00a0-\u00a02024"
+    }
+  },
+  {
+    "101": {
+      "name": "Glitter Trans-Clear",
+      "bgColor": "b2adaa",
+      "type": "Speckle Colors",
+      "Parts": "16",
+      "In Sets": "33",
+      "Wanted": "200",
+      "For Sale": "21",
+      "Color Timeline": "1999\u00a0-\u00a02023"
+    }
+  },
+  {
+    "102": {
+      "name": "Glitter Trans-Purple",
+      "bgColor": "3A2B82",
+      "type": "Speckle Colors",
+      "Parts": "16",
+      "In Sets": "66",
+      "Wanted": "222",
+      "For Sale": "17",
+      "Color Timeline": "2000\u00a0-\u00a02024"
+    }
+  },
+  {
+    "103": {
+      "name": "Bright Light Yellow",
+      "bgColor": "FFF08C",
+      "type": "Solid",
+      "Parts": "618",
+      "In Sets": "1172",
+      "Wanted": "2567",
+      "For Sale": "659",
+      "Color Timeline": "2004\u00a0-\u00a02025"
+    }
+  },
+  {
+    "104": {
+      "name": "Bright Pink",
+      "bgColor": "F7BCDA",
+      "type": "Solid",
+      "Parts": "735",
+      "In Sets": "1603",
+      "Wanted": "1935",
+      "For Sale": "793",
+      "Color Timeline": "2003\u00a0-\u00a02025"
+    }
+  },
+  {
+    "105": {
+      "name": "Bright Light Blue",
+      "bgColor": "BCD1ED",
+      "type": "Solid",
+      "Parts": "590",
+      "In Sets": "777",
+      "Wanted": "2555",
+      "For Sale": "652",
+      "Color Timeline": "2004\u00a0-\u00a02025"
+    }
+  },
+  {
+    "106": {
+      "name": "Fabuland Brown",
+      "bgColor": "B3694E",
+      "type": "Solid",
+      "Parts": "7",
+      "In Sets": "26",
+      "Wanted": "1527",
+      "For Sale": "12",
+      "Color Timeline": "1979\u00a0-\u00a01991"
+    }
+  },
+  {
+    "107": {
+      "name": "Trans-Pink",
+      "bgColor": "FF8298",
+      "type": "Transparent",
+      "Parts": "68",
+      "In Sets": "44",
+      "Wanted": "333",
+      "For Sale": "90",
+      "Color Timeline": "2003\u00a0-\u00a02006"
+    }
+  },
+  {
+    "108": {
+      "name": "Trans-Bright Green",
+      "bgColor": "10Cb31",
+      "type": "Transparent",
+      "Parts": "197",
+      "In Sets": "640",
+      "Wanted": "842",
+      "For Sale": "236",
+      "Color Timeline": "2006\u00a0-\u00a02025"
+    }
+  },
+  {
+    "109": {
+      "name": "Dark Blue-Violet",
+      "bgColor": "2032B0",
+      "type": "Solid",
+      "Parts": "8",
+      "In Sets": "6",
+      "Wanted": "1231",
+      "For Sale": "19",
+      "Color Timeline": "2004\u00a0-\u00a02006"
+    }
+  },
+  {
+    "110": {
+      "name": "Bright Light Orange",
+      "bgColor": "FFC700",
+      "type": "Solid",
+      "Parts": "1482",
+      "In Sets": "2222",
+      "Wanted": "3316",
+      "For Sale": "1587",
+      "Color Timeline": "2003\u00a0-\u00a02025"
+    }
+  },
+  {
+    "111": {
+      "name": "Speckle Black-Silver",
+      "bgColor": "7C7E7C",
+      "type": "Modulex Colors",
+      "Parts": "15",
+      "In Sets": "49",
+      "Wanted": "334",
+      "For Sale": "18",
+      "Color Timeline": "2005\u00a0-\u00a02013"
+    }
+  },
+  {
+    "113": {
+      "name": "Trans-Aqua",
+      "bgColor": "B7C8BF",
+      "type": "Transparent",
+      "Parts": "39",
+      "In Sets": "36",
+      "Wanted": "553",
+      "For Sale": "58",
+      "Color Timeline": "2003\u00a0-\u00a02006"
+    }
+  },
+  {
+    "114": {
+      "name": "Trans-Light Purple",
+      "bgColor": "B97AB1",
+      "type": "Transparent",
+      "Parts": "20",
+      "In Sets": "20",
+      "Wanted": "287",
+      "For Sale": "31",
+      "Color Timeline": "2005\u00a0-\u00a02006"
+    }
+  },
+  {
+    "115": {
+      "name": "Pearl Gold",
+      "bgColor": "E79E1D",
+      "type": "Satin Colors",
+      "Parts": "1289",
+      "In Sets": "2900",
+      "Wanted": "3052",
+      "For Sale": "1417",
+      "Color Timeline": "2004\u00a0-\u00a02025"
+    }
+  },
+  {
+    "116": {
+      "name": "Speckle Black-Copper",
+      "bgColor": "5F4E47",
+      "type": "Modulex Colors",
+      "Parts": "5",
+      "In Sets": "3",
+      "Wanted": "242",
+      "For Sale": "5",
+      "Color Timeline": "2006\u00a0-\u00a02006"
+    }
+  },
+  {
+    "117": {
+      "name": "Speckle DBGray-Silver",
+      "bgColor": "4A6363",
+      "type": "Modulex Colors",
+      "Parts": "5",
+      "In Sets": "7",
+      "Wanted": "276",
+      "For Sale": "8",
+      "Color Timeline": "2006\u00a0-\u00a02006"
+    }
+  },
+  {
+    "118": {
+      "name": "Glow In Dark Trans",
+      "bgColor": "bdc6ad",
+      "type": "Glitter Colors",
+      "Parts": "17",
+      "In Sets": "23",
+      "Wanted": "406",
+      "For Sale": "19",
+      "Color Timeline": "2005\u00a0-\u00a02011"
+    }
+  },
+  {
+    "119": {
+      "name": "Pearl Very Light Gray",
+      "bgColor": "D4D2CD",
+      "type": "Satin Colors",
+      "Parts": "21",
+      "In Sets": "17",
+      "Wanted": "489",
+      "For Sale": "44",
+      "Color Timeline": "2002\u00a0-\u00a02005"
+    }
+  },
+  {
+    "120": {
+      "name": "Dark Brown",
+      "bgColor": "50372F",
+      "type": "Solid",
+      "Parts": "874",
+      "In Sets": "2055",
+      "Wanted": "3266",
+      "For Sale": "946",
+      "Color Timeline": "2007\u00a0-\u00a02025"
+    }
+  },
+  {
+    "121": {
+      "name": "Trans-Neon Yellow",
+      "bgColor": "FFD700",
+      "type": "Transparent",
+      "Parts": "28",
+      "In Sets": "36",
+      "Wanted": "539",
+      "For Sale": "75",
+      "Color Timeline": "2001\u00a0-\u00a02006"
+    }
+  },
+  {
+    "122": {
+      "name": "Chrome Black",
+      "bgColor": "544E4F",
+      "type": "Pearl Colors",
+      "Parts": "11",
+      "In Sets": "1",
+      "Wanted": "1224",
+      "For Sale": "8",
+      "Color Timeline": "2009\u00a0-\u00a02009"
+    }
+  },
+  {
+    "123": {
+      "name": "Mx White",
+      "bgColor": "FFFFFF",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "759",
+      "For Sale": "465",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "124": {
+      "name": "Mx Light Bluish Gray",
+      "bgColor": "AfB5C7",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "24",
+      "For Sale": "4",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "125": {
+      "name": "Mx Light Gray",
+      "bgColor": "9C9C9C",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "65",
+      "For Sale": "51",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "126": {
+      "name": "Mx Charcoal Gray",
+      "bgColor": "595D60",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "17",
+      "For Sale": "3",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "127": {
+      "name": "Mx Tile Gray",
+      "bgColor": "6B5A5A",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "227",
+      "For Sale": "",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "128": {
+      "name": "Mx Black",
+      "bgColor": "000000",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "314",
+      "For Sale": "226",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "129": {
+      "name": "Mx Red",
+      "bgColor": "B52C20",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "30",
+      "For Sale": "29",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "130": {
+      "name": "Mx Pink Red",
+      "bgColor": "F45C40",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "16",
+      "For Sale": "7",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "131": {
+      "name": "Mx Tile Brown",
+      "bgColor": "330000",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "218",
+      "For Sale": "1",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "132": {
+      "name": "Mx Brown",
+      "bgColor": "907450",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "32",
+      "For Sale": "25",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "133": {
+      "name": "Mx Buff",
+      "bgColor": "DEC69C",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "42",
+      "For Sale": "34",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "134": {
+      "name": "Mx Terracotta",
+      "bgColor": "5C5030",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "32",
+      "For Sale": "24",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "135": {
+      "name": "Mx Orange",
+      "bgColor": "F47B30",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "29",
+      "For Sale": "27",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "136": {
+      "name": "Mx Light Orange",
+      "bgColor": "F7AD63",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "17",
+      "For Sale": "7",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "137": {
+      "name": "Mx Light Yellow",
+      "bgColor": "FFE371",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "21",
+      "For Sale": "8",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "138": {
+      "name": "Mx Ochre Yellow",
+      "bgColor": "FED557",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "21",
+      "For Sale": "17",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "139": {
+      "name": "Mx Lemon",
+      "bgColor": "BDC618",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "23",
+      "For Sale": "29",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "140": {
+      "name": "Mx Olive Green",
+      "bgColor": "7C9051",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "23",
+      "For Sale": "23",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "141": {
+      "name": "Mx Pastel Green",
+      "bgColor": "7DB538",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "32",
+      "For Sale": "34",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "142": {
+      "name": "Mx Aqua Green",
+      "bgColor": "27867E",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "27",
+      "For Sale": "10",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "143": {
+      "name": "Mx Tile Blue",
+      "bgColor": "0057A6",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "137",
+      "For Sale": "1",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "144": {
+      "name": "Mx Medium Blue",
+      "bgColor": "61AFFF",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "19",
+      "For Sale": "10",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "145": {
+      "name": "Mx Pastel Blue",
+      "bgColor": "68AECE",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "26",
+      "For Sale": "21",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "146": {
+      "name": "Mx Teal Blue",
+      "bgColor": "467083",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "17",
+      "For Sale": "16",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "147": {
+      "name": "Mx Violet",
+      "bgColor": "BD7D85",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "22",
+      "For Sale": "8",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "148": {
+      "name": "Mx Pink",
+      "bgColor": "F785B1",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "24",
+      "For Sale": "24",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "149": {
+      "name": "Mx Clear",
+      "bgColor": "FFFFFF",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "56",
+      "For Sale": "32",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "150": {
+      "name": "Medium Nougat",
+      "bgColor": "E3A05B",
+      "type": "Solid",
+      "Parts": "1307",
+      "In Sets": "2138",
+      "Wanted": "2686",
+      "For Sale": "1362",
+      "Color Timeline": "2010\u00a0-\u00a02025"
+    }
+  },
+  {
+    "151": {
+      "name": "Speckle Black-Gold",
+      "bgColor": "AB9421",
+      "type": "Modulex Colors",
+      "Parts": "2",
+      "In Sets": "4",
+      "Wanted": "262",
+      "For Sale": "6",
+      "Color Timeline": "2010\u00a0-\u00a02011"
+    }
+  },
+  {
+    "152": {
+      "name": "Light Aqua",
+      "bgColor": "CFEFEA",
+      "type": "Solid",
+      "Parts": "583",
+      "In Sets": "798",
+      "Wanted": "1195",
+      "For Sale": "610",
+      "Color Timeline": "2011\u00a0-\u00a02025"
+    }
+  },
+  {
+    "153": {
+      "name": "Dark Azure",
+      "bgColor": "009FE0",
+      "type": "Solid",
+      "Parts": "899",
+      "In Sets": "1321",
+      "Wanted": "2273",
+      "For Sale": "951",
+      "Color Timeline": "2011\u00a0-\u00a02025"
+    }
+  },
+  {
+    "154": {
+      "name": "Lavender",
+      "bgColor": "D3BDE3",
+      "type": "Solid",
+      "Parts": "442",
+      "In Sets": "665",
+      "Wanted": "1092",
+      "For Sale": "494",
+      "Color Timeline": "2011\u00a0-\u00a02025"
+    }
+  },
+  {
+    "155": {
+      "name": "Olive Green",
+      "bgColor": "ABA953",
+      "type": "Solid",
+      "Parts": "679",
+      "In Sets": "631",
+      "Wanted": "2352",
+      "For Sale": "708",
+      "Color Timeline": "2012\u00a0-\u00a02025"
+    }
+  },
+  {
+    "156": {
+      "name": "Medium Azure",
+      "bgColor": "6ACEE0",
+      "type": "Solid",
+      "Parts": "1024",
+      "In Sets": "1929",
+      "Wanted": "2186",
+      "For Sale": "1096",
+      "Color Timeline": "2012\u00a0-\u00a02025"
+    }
+  },
+  {
+    "157": {
+      "name": "Medium Lavender",
+      "bgColor": "C689D9",
+      "type": "Solid",
+      "Parts": "601",
+      "In Sets": "909",
+      "Wanted": "1215",
+      "For Sale": "623",
+      "Color Timeline": "2012\u00a0-\u00a02025"
+    }
+  },
+  {
+    "158": {
+      "name": "Yellowish Green",
+      "bgColor": "E7F2A7",
+      "type": "Solid",
+      "Parts": "263",
+      "In Sets": "440",
+      "Wanted": "705",
+      "For Sale": "284",
+      "Color Timeline": "2012\u00a0-\u00a02025"
+    }
+  },
+  {
+    "159": {
+      "name": "Glow In Dark White",
+      "bgColor": "d9d9d9",
+      "type": "Glitter Colors",
+      "Parts": "84",
+      "In Sets": "106",
+      "Wanted": "829",
+      "For Sale": "92",
+      "Color Timeline": "2011\u00a0-\u00a02025"
+    }
+  },
+  {
+    "160": {
+      "name": "Fabuland Orange",
+      "bgColor": "EF9121",
+      "type": "Solid",
+      "Parts": "2",
+      "In Sets": "3",
+      "Wanted": "542",
+      "For Sale": "4",
+      "Color Timeline": "1983\u00a0-\u00a01987"
+    }
+  },
+  {
+    "161": {
+      "name": "Dark Yellow",
+      "bgColor": "DD982E",
+      "type": "Solid",
+      "Parts": "5",
+      "In Sets": "5",
+      "Wanted": "839",
+      "For Sale": "17",
+      "Color Timeline": "2004\u00a0-\u00a02005"
+    }
+  },
+  {
+    "162": {
+      "name": "Glitter Trans-Light Blue",
+      "bgColor": "68BCC5",
+      "type": "Speckle Colors",
+      "Parts": "17",
+      "In Sets": "29",
+      "Wanted": "197",
+      "For Sale": "31",
+      "Color Timeline": "2015\u00a0-\u00a02024"
+    }
+  },
+  {
+    "163": {
+      "name": "Glitter Trans-Neon Green",
+      "bgColor": "C0F500",
+      "type": "Speckle Colors",
+      "Parts": "1",
+      "In Sets": "8",
+      "Wanted": "171",
+      "For Sale": "2",
+      "Color Timeline": "2015\u00a0-\u00a02018"
+    }
+  },
+  {
+    "164": {
+      "name": "Trans-Light Orange",
+      "bgColor": "E99A3A",
+      "type": "Transparent",
+      "Parts": "39",
+      "In Sets": "22",
+      "Wanted": "428",
+      "For Sale": "87",
+      "Color Timeline": "2003\u00a0-\u00a02006"
+    }
+  },
+  {
+    "165": {
+      "name": "Neon Orange",
+      "bgColor": "FA5947",
+      "type": "Solid",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "495",
+      "For Sale": "11",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "166": {
+      "name": "Neon Green",
+      "bgColor": "DBF355",
+      "type": "Solid",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "436",
+      "For Sale": "6",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "167": {
+      "name": "Reddish Orange",
+      "bgColor": "FF5500",
+      "type": "Solid",
+      "Parts": "128",
+      "In Sets": "106",
+      "Wanted": "729",
+      "For Sale": "131",
+      "Color Timeline": "2024\u00a0-\u00a02025"
+    }
+  },
+  {
+    "168": {
+      "name": "Umber",
+      "bgColor": "735442",
+      "type": "Solid",
+      "Parts": "3",
+      "In Sets": "2",
+      "Wanted": "89",
+      "For Sale": "2",
+      "Color Timeline": "2024\u00a0-\u00a02024"
+    }
+  },
+  {
+    "169": {
+      "name": "Sienna",
+      "bgColor": "EA8339",
+      "type": "Solid",
+      "Parts": "22",
+      "In Sets": "14",
+      "Wanted": "75",
+      "For Sale": "12",
+      "Color Timeline": "2024\u00a0-\u00a02025"
+    }
+  },
+  {
+    "170": {
+      "name": "Satin Trans-Yellow",
+      "bgColor": "EBF72D",
+      "type": "Metallic Colors",
+      "Parts": "3",
+      "In Sets": "6",
+      "Wanted": "24",
+      "For Sale": "4",
+      "Color Timeline": "2024\u00a0-\u00a02025"
+    }
+  },
+  {
+    "210": {
+      "name": "Mx Foil Dark Gray",
+      "bgColor": "595D60",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "4",
+      "For Sale": "1",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "211": {
+      "name": "Mx Foil Light Gray",
+      "bgColor": "9C9C9C",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "5",
+      "For Sale": "",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "212": {
+      "name": "Mx Foil Dark Green",
+      "bgColor": "006400",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "4",
+      "For Sale": "",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "213": {
+      "name": "Mx Foil Light Green",
+      "bgColor": "7DB538",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "3",
+      "For Sale": "1",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "214": {
+      "name": "Mx Foil Dark Blue",
+      "bgColor": "0057A6",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "3",
+      "For Sale": "1",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "215": {
+      "name": "Mx Foil Light Blue",
+      "bgColor": "68AECE",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "3",
+      "For Sale": "",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "216": {
+      "name": "Mx Foil Violet",
+      "bgColor": "4B0082",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "3",
+      "For Sale": "",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "217": {
+      "name": "Mx Foil Red",
+      "bgColor": "8B0000",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "3",
+      "For Sale": "1",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "218": {
+      "name": "Mx Foil Yellow",
+      "bgColor": "FED557",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "3",
+      "For Sale": "",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "219": {
+      "name": "Mx Foil Orange",
+      "bgColor": "F7AD63",
+      "type": "Modulex Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "3",
+      "For Sale": "1",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "220": {
+      "name": "Coral",
+      "bgColor": "FF8172",
+      "type": "Solid",
+      "Parts": "269",
+      "In Sets": "482",
+      "Wanted": "945",
+      "For Sale": "284",
+      "Color Timeline": "2019\u00a0-\u00a02025"
+    }
+  },
+  {
+    "221": {
+      "name": "Trans-Light Green",
+      "bgColor": "94E5AB",
+      "type": "Transparent",
+      "Parts": "10",
+      "In Sets": "5",
+      "Wanted": "258",
+      "For Sale": "27",
+      "Color Timeline": "2005\u00a0-\u00a02006"
+    }
+  },
+  {
+    "222": {
+      "name": "Glitter Trans-Orange",
+      "bgColor": "D04010",
+      "type": "Speckle Colors",
+      "Parts": "1",
+      "In Sets": "1",
+      "Wanted": "140",
+      "For Sale": "1",
+      "Color Timeline": "2020\u00a0-\u00a02020"
+    }
+  },
+  {
+    "223": {
+      "name": "Satin Trans-Light Blue",
+      "bgColor": "68BCC5",
+      "type": "Metallic Colors",
+      "Parts": "52",
+      "In Sets": "131",
+      "Wanted": "247",
+      "For Sale": "58",
+      "Color Timeline": "2020\u00a0-\u00a02025"
+    }
+  },
+  {
+    "224": {
+      "name": "Satin Trans-Dark Pink",
+      "bgColor": "CE1d9b",
+      "type": "Metallic Colors",
+      "Parts": "17",
+      "In Sets": "48",
+      "Wanted": "135",
+      "For Sale": "16",
+      "Color Timeline": "2020\u00a0-\u00a02025"
+    }
+  },
+  {
+    "225": {
+      "name": "Dark Nougat",
+      "bgColor": "CE7942",
+      "type": "Solid",
+      "Parts": "3",
+      "In Sets": "10",
+      "Wanted": "1056",
+      "For Sale": "48",
+      "Color Timeline": "2001\u00a0-\u00a02004"
+    }
+  },
+  {
+    "226": {
+      "name": "Trans-Light Bright Green",
+      "bgColor": "71EB54",
+      "type": "Transparent",
+      "Parts": "26",
+      "In Sets": "17",
+      "Wanted": "237",
+      "For Sale": "52",
+      "Color Timeline": "2003\u00a0-\u00a02006"
+    }
+  },
+  {
+    "227": {
+      "name": "Clikits Lavender",
+      "bgColor": "E0AAD9",
+      "type": "Solid",
+      "Parts": "10",
+      "In Sets": "12",
+      "Wanted": "668",
+      "For Sale": "16",
+      "Color Timeline": "2005\u00a0-\u00a02005"
+    }
+  },
+  {
+    "228": {
+      "name": "Satin Trans-Clear",
+      "bgColor": "FFFFFF",
+      "type": "Metallic Colors",
+      "Parts": "21",
+      "In Sets": "91",
+      "Wanted": "217",
+      "For Sale": "26",
+      "Color Timeline": "2020\u00a0-\u00a02025"
+    }
+  },
+  {
+    "229": {
+      "name": "Satin Trans-Brown",
+      "bgColor": "939484",
+      "type": "Metallic Colors",
+      "Parts": "7",
+      "In Sets": "12",
+      "Wanted": "144",
+      "For Sale": "13",
+      "Color Timeline": "2020\u00a0-\u00a02023"
+    }
+  },
+  {
+    "230": {
+      "name": "Satin Trans-Purple",
+      "bgColor": "8320B7",
+      "type": "Metallic Colors",
+      "Parts": "19",
+      "In Sets": "52",
+      "Wanted": "167",
+      "For Sale": "19",
+      "Color Timeline": "2020\u00a0-\u00a02025"
+    }
+  },
+  {
+    "231": {
+      "name": "Dark Salmon",
+      "bgColor": "FF6326",
+      "type": "Solid",
+      "Parts": "5",
+      "In Sets": "4",
+      "Wanted": "160",
+      "For Sale": "8",
+      "Color Timeline": "2003\u00a0-\u00a02003"
+    }
+  },
+  {
+    "232": {
+      "name": "Satin Trans-Dark Blue",
+      "bgColor": "1552e2",
+      "type": "Metallic Colors",
+      "Parts": "16",
+      "In Sets": "35",
+      "Wanted": "164",
+      "For Sale": "20",
+      "Color Timeline": "2021\u00a0-\u00a02025"
+    }
+  },
+  {
+    "233": {
+      "name": "Satin Trans-Bright Green",
+      "bgColor": "7fe15b",
+      "type": "Metallic Colors",
+      "Parts": "11",
+      "In Sets": "15",
+      "Wanted": "165",
+      "For Sale": "13",
+      "Color Timeline": "2021\u00a0-\u00a02025"
+    }
+  },
+  {
+    "234": {
+      "name": "Trans-Medium Purple",
+      "bgColor": "9C41B6",
+      "type": "Transparent",
+      "Parts": "37",
+      "In Sets": "35",
+      "Wanted": "187",
+      "For Sale": "44",
+      "Color Timeline": "2003\u00a0-\u00a02006"
+    }
+  },
+  {
+    "235": {
+      "name": "Reddish Gold",
+      "bgColor": "E7891B",
+      "type": "Satin Colors",
+      "Parts": "28",
+      "In Sets": "30",
+      "Wanted": "326",
+      "For Sale": "29",
+      "Color Timeline": "2003\u00a0-\u00a02006"
+    }
+  },
+  {
+    "236": {
+      "name": "Neon Yellow",
+      "bgColor": "FFFC00",
+      "type": "Solid",
+      "Parts": "156",
+      "In Sets": "123",
+      "Wanted": "589",
+      "For Sale": "166",
+      "Color Timeline": "2022\u00a0-\u00a02025"
+    }
+  },
+  {
+    "237": {
+      "name": "Bionicle Copper",
+      "bgColor": "985750",
+      "type": "Satin Colors",
+      "Parts": "2",
+      "In Sets": "1",
+      "Wanted": "139",
+      "For Sale": "4",
+      "Color Timeline": "2001\u00a0-\u00a02001"
+    }
+  },
+  {
+    "238": {
+      "name": "Bionicle Gold",
+      "bgColor": "B9752F",
+      "type": "Satin Colors",
+      "Parts": "6",
+      "In Sets": "2",
+      "Wanted": "338",
+      "For Sale": "10",
+      "Color Timeline": "2002\u00a0-\u00a02002"
+    }
+  },
+  {
+    "239": {
+      "name": "Bionicle Silver",
+      "bgColor": "A59287",
+      "type": "Satin Colors",
+      "Parts": "6",
+      "In Sets": "2",
+      "Wanted": "528",
+      "For Sale": "6",
+      "Color Timeline": "2002\u00a0-\u00a02002"
+    }
+  },
+  {
+    "240": {
+      "name": "Medium Brown",
+      "bgColor": "A16C42",
+      "type": "Solid",
+      "Parts": "79",
+      "In Sets": "79",
+      "Wanted": "1235",
+      "For Sale": "81",
+      "Color Timeline": "2022\u00a0-\u00a02025"
+    }
+  },
+  {
+    "241": {
+      "name": "Medium Tan",
+      "bgColor": "FBC685",
+      "type": "Solid",
+      "Parts": "174",
+      "In Sets": "101",
+      "Wanted": "1312",
+      "For Sale": "174",
+      "Color Timeline": "2022\u00a0-\u00a02025"
+    }
+  },
+  {
+    "242": {
+      "name": "Dark Olive Green",
+      "bgColor": "76753F",
+      "type": "Solid",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "250",
+      "For Sale": "7",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "243": {
+      "name": "Pearl Sand Purple",
+      "bgColor": "B5A1BA",
+      "type": "Satin Colors",
+      "Parts": "",
+      "In Sets": "",
+      "Wanted": "33",
+      "For Sale": "",
+      "Color Timeline": "?"
+    }
+  },
+  {
+    "244": {
+      "name": "Pearl Black",
+      "bgColor": "282725",
+      "type": "Satin Colors",
+      "Parts": "6",
+      "In Sets": "9",
+      "Wanted": "1079",
+      "For Sale": "15",
+      "Color Timeline": "2003\u00a0-\u00a02006"
+    }
+  },
+  {
+    "245": {
+      "name": "Lilac",
+      "bgColor": "7862CE",
+      "type": "Solid",
+      "Parts": "7",
+      "In Sets": "7",
+      "Wanted": "423",
+      "For Sale": "16",
+      "Color Timeline": "2004\u00a0-\u00a02007"
+    }
+  },
+  {
+    "246": {
+      "name": "Light Lilac",
+      "bgColor": "CDCCEE",
+      "type": "Solid",
+      "Parts": "1",
+      "In Sets": "1",
+      "Wanted": "51",
+      "For Sale": "2",
+      "Color Timeline": "2004\u00a0-\u00a02004"
+    }
+  },
+  {
+    "247": {
+      "name": "Little Robots Blue",
+      "bgColor": "5DBFE4",
+      "type": "Solid",
+      "Parts": "2",
+      "In Sets": "2",
+      "Wanted": "60",
+      "For Sale": "2",
+      "Color Timeline": "2003\u00a0-\u00a02004"
+    }
+  },
+  {
+    "248": {
+      "name": "Fabuland Lime",
+      "bgColor": "ADD237",
+      "type": "Solid",
+      "Parts": "9",
+      "In Sets": "5",
+      "Wanted": "361",
+      "For Sale": "16",
+      "Color Timeline": "1982\u00a0-\u00a01986"
+    }
+  },
+  {
+    "249": {
+      "name": "Reddish Copper",
+      "bgColor": "D06926",
+      "type": "Satin Colors",
+      "Parts": "21",
+      "In Sets": "20",
+      "Wanted": "105",
+      "For Sale": "23",
+      "Color Timeline": "2017\u00a0-\u00a02020"
+    }
+  },
+  {
+    "250": {
+      "name": "Metallic Copper",
+      "bgColor": "C58259",
+      "type": "Milky Colors",
+      "Parts": "6",
+      "In Sets": "14",
+      "Wanted": "322",
+      "For Sale": "7",
+      "Color Timeline": "2007\u00a0-\u00a02012"
+    }
+  },
+  {
+    "251": {
+      "name": "Trans-Black",
+      "bgColor": "777777",
+      "type": "Transparent",
+      "Parts": "56",
+      "In Sets": "64",
+      "Wanted": "566",
+      "For Sale": "76",
+      "Color Timeline": "2023\u00a0-\u00a02025"
+    }
+  },
+  {
+    "252": {
+      "name": "Pearl Red",
+      "bgColor": "E54952",
+      "type": "Satin Colors",
+      "Parts": "3",
+      "In Sets": "7",
+      "Wanted": "360",
+      "For Sale": "3",
+      "Color Timeline": "2003\u00a0-\u00a02006"
+    }
+  },
+  {
+    "253": {
+      "name": "Pearl Green",
+      "bgColor": "13A452",
+      "type": "Satin Colors",
+      "Parts": "3",
+      "In Sets": "7",
+      "Wanted": "111",
+      "For Sale": "5",
+      "Color Timeline": "2003\u00a0-\u00a02006"
+    }
+  },
+  {
+    "254": {
+      "name": "Pearl Blue",
+      "bgColor": "3977C7",
+      "type": "Satin Colors",
+      "Parts": "4",
+      "In Sets": "9",
+      "Wanted": "190",
+      "For Sale": "8",
+      "Color Timeline": "2003\u00a0-\u00a02009"
+    }
+  },
+  {
+    "255": {
+      "name": "Pearl Brown",
+      "bgColor": "815542",
+      "type": "Satin Colors",
+      "Parts": "3",
+      "In Sets": "7",
+      "Wanted": "91",
+      "For Sale": "4",
+      "Color Timeline": "2003\u00a0-\u00a02006"
+    }
+  }
+]
