@@ -1,7 +1,8 @@
 * [X] Retravailler le programme unty d'exportation pour exporter en ascii
-* [ ] Exporter les textures
+* [X] Exporter les textures
 * [X] Faire un programme blender qui fussione les pieces entre elle et qui exporte en fbx
-* [ ] Connectique des pieces
+* [X] Connectique des pieces
+  * [ ] allignement entre les stud et les sockets
 * [ ] menu du debut a refaire (zone de debut)
 
 # Utilitaire
