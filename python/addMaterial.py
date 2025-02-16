@@ -92,9 +92,9 @@ if response.status_code == 200:
     data_sorted = sorted(data, key=lambda x: int(list(x.keys())[0]))  # Sort by ID
 
     # Write to JSON file
-    with open('table_data.json', 'w') as json_file:
+    with open('../material_brinklinks.json', 'w') as json_file:
         json.dump(data_sorted, json_file, indent=2)
 
-    print('Table data has been saved to table_data.json')
+    print('Table data has been saved')
 else:
     print('Failed to retrieve the URL:', response.status_code)

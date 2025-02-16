@@ -1,9 +1,11 @@
 * [X] Retravailler le programme unty d'exportation pour exporter en ascii
 * [X] Exporter les textures
+  * [ ] bug: voir pk il y a une grande majorité de blanc
 * [X] Faire un programme blender qui fussione les pieces entre elle et qui exporte en fbx
 * [X] Connectique des pieces
   * [ ] allignement entre les stud et les sockets
-* [ ] menu du debut a refaire (zone de debut)
+* [ ] menu du debut a refaire (zone de debut): voir le blueprint
+* [ ] comprendre la connection de studio 0
 
 # Utilitaire
 

@@ -1,7 +1,7 @@
 import json
 
 # Chemin du fichier JSON
-file_path = './table_data.json'
+file_path = '../assets/Material/material_brinklinks.json'
 
 # Fonction pour convertir une couleur hexadécimale en RGB
 def hex_to_rgb(hex_color):
@@ -21,8 +21,9 @@ def reformat_data(data):
             reformatted_data[key] = {
                 'name': value['name'],
                 'rgb': hex_to_rgb(hex_color),
-                'metallic': 0.0 if 'Solid' in value['type'] else 1.0,
-                'roughness': 0.5 if 'Solid' in value['type'] else 0.1,
+                'hex': "#"+hex_color,
+                'metallic': 0.2 if 'Solid' in value['type'] else 0.8,
+                'roughness': 0.5 if 'Solid' in value['type'] else 0.3,
                 'transparent': is_transparent(value['type'])
             }
     return reformatted_data
@@ -35,7 +36,7 @@ with open(file_path, 'r') as file:
 reformatted_data = reformat_data(data)
 
 # Écriture des données reformattées dans un nouveau fichier JSON
-with open('./reformatted_table_data.json', 'w') as file:
+with open('../assets/Material/material_reformated.json', 'w') as file:
     json.dump(reformatted_data, file, indent=2)
 
 print("Données reformattées et enregistrées avec succès.")
