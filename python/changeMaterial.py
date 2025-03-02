@@ -65,9 +65,13 @@ def reformat_data(data):
     for item in data:
         for key, value in item.items():
             hex_color = value['bgColor']
+            colors = hex_to_rgb(hex_color)
+            newColors = []
+            for color in colors:
+                newColors.append(round(color / 256, 2))
             reformatted_data[key] = {
                 'name': value['name'],
-                'rgb': hex_to_rgb(hex_color),
+                'rgb': newColors,
                 'hex': "#"+hex_color,
                 'metallic': 0.2 if 'Solid' in value['type'] else 0.8,
                 'roughness': 0.5 if 'Solid' in value['type'] else 0.3,
