@@ -88,7 +88,11 @@ reformatted_data = reformat_data(data)
 
 # Écriture des données reformattées dans un nouveau fichier JSON
 output_file = file_path.replace('material_brinklinks.json', 'reformatted_table_data.json')
+outputfile2 = output_file.replace('../assets/Material', '../backend')
 with open(output_file, 'w') as file:
+    json.dump(reformatted_data, file, indent=2)
+
+with open(outputfile2, 'w') as file:
     json.dump(reformatted_data, file, indent=2)
 
 print("Données reformattées et enregistrées avec succès.")
